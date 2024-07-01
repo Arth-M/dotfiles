@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ah.michalland@gmail.com
+	name = Arthur-Henri Michalland
